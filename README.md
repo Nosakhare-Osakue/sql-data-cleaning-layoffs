@@ -1,7 +1,7 @@
 # sql-data-cleaning-layoffs
 SQL-based data cleaning and standardization pipeline executed on a global tech layoffs dataset using MySQL.
 
-# Portfolio Case Study: Global Tech Layoffs Data Cleaning & Standardization
+# Global Tech Layoffs Data Cleaning & Standardization
 
 **Author:** Nosakhare Osakue
 
